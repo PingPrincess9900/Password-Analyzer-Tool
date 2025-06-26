@@ -4,7 +4,7 @@ A Python-based GUI application that analyzes password strength using entropy. Th
 
 ---
 
- ##🧠 Features
+##🧠 Features
 
 - ✔️ Entropy-based password strength analysis
 - ✔️ Detects and reports missing character types (lowercase, uppercase, digits, symbols)
@@ -46,6 +46,16 @@ A Python-based GUI application that analyzes password strength using entropy. Th
 3. **Export Report:**
    - After scanning, a CSV report is automatically generated.
    - Report includes: password, entropy, strength status, missing elements, suggested password.
+  
+
+  
+  ---
+
+## 🪪 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+You are free to use, modify, and distribute this software with proper attribution. See the LICENSE file for full terms.
 
 
 ---
