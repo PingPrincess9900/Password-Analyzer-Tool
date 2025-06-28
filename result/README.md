@@ -9,9 +9,7 @@ This section shows how the password analyzer tool works — step by step with sc
 ## 🔁 Workflow
 
 1. **User enters password into GUI**  
-
-👉 [View Screenshot](analyzer.jpg)
-
+👉 [View Screenshot](Analyzer.jpg)
 
 
   
