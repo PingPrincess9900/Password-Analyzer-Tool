@@ -2,8 +2,8 @@
 
 A Python-based GUI application that analyzes password strength using entropy. The tool identifies weaknesses in passwords, suggests what character types are missing (e.g., uppercase, digits), generates stronger alternatives, and allows bulk scanning of passwords via CSV files. It also exports a detailed report and displays results in a user-friendly table format.
 
-https://github.com/PingPrincess9900/Password-Analyzer-Tool/blob/main/result/Analyzer%20.jpg
 ---
+
 
 ##🧠 Features
 
