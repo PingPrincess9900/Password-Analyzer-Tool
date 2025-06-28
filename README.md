@@ -34,7 +34,7 @@ A Python-based GUI application that analyzes password strength using entropy. Th
    - The tool calculates entropy based on character variety and length.
    - It checks for missing character types (lowercase, uppercase, digits, symbols).
    - If weak, it suggests a strong password and displays all findings.
-   -     result/Analyzer .jpg
+   -    [View Screenshot]( result/Analyzer .jpg)
 
 2. **Bulk Scan from CSV:**
    - The user uploads a CSV file where each row contains a password.
