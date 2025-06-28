@@ -10,7 +10,7 @@ This section shows how the password analyzer tool works — step by step with sc
 
 1. **User enters password into GUI**  
 
-👉 [View Screenshot](result/analyzer.jpg)
+👉 [View Screenshot](analyzer.jpg)
 
 
 
