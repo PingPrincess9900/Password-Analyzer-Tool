@@ -13,6 +13,7 @@ This section shows how the password analyzer tool works — step by step with sc
 👉 [View Screenshot](result/analyzer.jpg)
 
 
+
   
 2. **Tool analyzes entropy and character strength**  
 
