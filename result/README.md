@@ -10,8 +10,10 @@ This section shows how the password analyzer tool works — step by step with sc
 
 1. **User enters password into GUI**  
 
+👉 [View Screenshot](result/analyzer.jpg)
 
-  👉 [View Screenshot](result/Analyzer .jpg)
+
+  
 2. **Tool analyzes entropy and character strength**  
 
 
